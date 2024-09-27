@@ -1,8 +1,13 @@
-.nav-bar {
-    background-image: linear-gradient(270deg, #d85c3e 0, #d14c3a 16.67%, #c83735 33.33%, #bc172f 50%, #af002a 66.67%, #a40027 83.33%, #9c0028 100%);
+.nav-bar{
+    background-image: radial-gradient(circle at 120.71% 50%,
+    #f8f64f 0, 
+    #deed40 16.67%, 
+    #bee12b 33.33%, 
+    #99d102 50%, 
+    #71c100 66.67%, 
+    #47b400 83.33%, 
+    #00aa00 100%);
 }
-
-
 
 /* Footer */
 footer {
